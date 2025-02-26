@@ -1,4 +1,4 @@
-# 2025稳定好用的Vpn翻墙机场推荐/适合手机PC电脑爬外网
+# 2025稳定好用的Vpn翻墙机场推荐/支持ChatGPT谷歌youtube的梯子
 
 稳定好用的翻墙机场推荐，适用于 Clash、Shadowrocket、V2rayN、Surge、Quantumult X、sing-box 等多个平台的多种流行[翻墙软件](https://appletalking.cc/archives/2561)，导入即用。翻墙机场并非VPN，但比VPN更加适合用来翻墙。
 
